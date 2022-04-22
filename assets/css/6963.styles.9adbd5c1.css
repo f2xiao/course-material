@@ -1,0 +1,5 @@
+body{counter-reset:figureNumber;counter-increment:figureNumber}
+figcaption[data-v-c2e176ba]::before{content:"Figure " counter(figureNumber) " ";font-weight:700}.incrementFigureNumber[data-v-c2e176ba]{counter-increment:figureNumber}
+.mermaid svg{max-width:100%}
+
+/*# sourceMappingURL=6963.styles.9adbd5c1.css.map*/

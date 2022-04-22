@@ -1,0 +1,2054 @@
+{
+  "all": [
+    "lectures/android-introduction/android-introduction.pptx",
+    "assets/img/laboratory-work-gui.bf9266d6.jpeg",
+    "courses/android-development/files/laboratory-work-gui.jpeg",
+    "lectures/using-sequelize-in-node-js/using-sequelize-in-node-js.pdf",
+    "lectures/gdpr/gdpr.pptx",
+    "lectures/android-introduction/android-introduction.pdf",
+    "assets/js/6614.03ae2f0d.js",
+    "lectures/scaling-databases/scaling-databases.pdf",
+    "assets/img/lab-1-use-case-diagram.877ac84a.jpeg",
+    "courses/object-oriented-software-development/files/lab-1-use-case-diagram.jpeg",
+    "lectures/introduction-to-computers-and-programming/introduction-to-computers-and-programming.pptx",
+    "lectures/dependency-injection-in-node-js/dependency-injection-in-node-js.pdf",
+    "lectures/layered-architecture-in-node-js/layered-architecture-in-node-js.pdf",
+    "lectures/gdpr/gdpr.pdf",
+    "lectures/java/java.pdf",
+    "lectures/introduction-to-computers-and-programming/introduction-to-computers-and-programming.pdf",
+    "lectures/ajax/ajax.pdf",
+    "lectures/web-security/web-security.pdf",
+    "lectures/docker-basics/docker-basics.pdf",
+    "lectures/python-modelling/python-modelling.pptx",
+    "lectures/designing-account-systems/designing-account-systems.pdf",
+    "lectures/handling-concurrent-http-requests/handling-concurrent-http-requests.pdf",
+    "lectures/javascript-basics/javascript-basics.pdf",
+    "courses/client-server-communication/files/exam-cover-2019-10-15.pdf",
+    "courses/client-server-communication/files/exam-cover-2020-01-08.pdf",
+    "courses/web-development-fundamentals/files/project-report-template.docx",
+    "lectures/client-side-javascript-and-bom/client-side-javascript-and-bom.pdf",
+    "lectures/python-modelling/python-modelling.pdf",
+    "lectures/designing-account-systems/designing-account-systems.pptx",
+    "lectures/android-broadcast-receivers/android-broadcast-receivers.pdf",
+    "lectures/android-activities/android-activities.pdf",
+    "lectures/android-content-providers/android-content-providers.pdf",
+    "lectures/web-security/web-security.pptx",
+    "lectures/android-gps/android-gps.pdf",
+    "lectures/css/css.pdf",
+    "lectures/python-object-oriented-programming/python-object-oriented-programming.pdf",
+    "lectures/kotlin/kotlin.pdf",
+    "lectures/android-fragments/android-fragments.pdf",
+    "lectures/python-basics-part-1/python-basics-part-1.pdf",
+    "lectures/android-permissions/android-permissions.pdf",
+    "lectures/android-scheduling/android-scheduling.pdf",
+    "lectures/html/html.pdf",
+    "lectures/python-data-storage/python-data-storage.pdf",
+    "lectures/java/java.pptx",
+    "lectures/python-lists/python-lists.pdf",
+    "lectures/python-conditions/python-conditions.pdf",
+    "lectures/web-applications-in-express/web-applications-in-express.pdf",
+    "lectures/rest-api-basics/rest-api-basics.pdf",
+    "lectures/android-permissions/android-permissions.pptx",
+    "lectures/android-app-bar/android-app-bar.pdf",
+    "assets/js/v-7e7ef5e7.5c7b84e8.js",
+    "lectures/android-broadcast-receivers/android-broadcast-receivers.pptx",
+    "lectures/android-sensors/android-sensors.pdf",
+    "lectures/scaling-web-applications/scaling-web-applications.pdf",
+    "lectures/document-object-model/document-object-model.pdf",
+    "lectures/android-services/android-services.pdf",
+    "lectures/python-loops/python-loops.pdf",
+    "lectures/android-runtime-configuration-changes/android-runtime-configuration-changes.pdf",
+    "lectures/android-menus/android-menus.pdf",
+    "lectures/handlebars/handlebars.pdf",
+    "lectures/android-file-storage/android-file-storage.pdf",
+    "lectures/python-functions/python-functions.pdf",
+    "lectures/rest-api-authorization/rest-api-authorization.pdf",
+    "lectures/express-basics/express-basics.pdf",
+    "lectures/android-bluetooth-classic/android-bluetooth-classic.pdf",
+    "lectures/android-design-patterns/android-design-patterns.pdf",
+    "lectures/python-strings/python-strings.pdf",
+    "lectures/android-list-view/android-list-view.pdf",
+    "lectures/android-sqlite-database/android-sqlite-database.pdf",
+    "lectures/sqlite/sqlite.pdf",
+    "lectures/android-asynchronous-operations/android-asynchronous-operations.pdf",
+    "lectures/http-and-web-applications/http-and-web-applications.pdf",
+    "lectures/android-app-bar/android-app-bar.pptx",
+    "lectures/android-menus/android-menus.pptx",
+    "lectures/android-notifications/android-notifications.pptx",
+    "lectures/using-sqlite-in-node-js/using-sqlite-in-node-js.pdf",
+    "lectures/android-notifications/android-notifications.pdf",
+    "lectures/kotlin-asynchronous-operations/kotlin-asynchronous-operations.pdf",
+    "lectures/android-view-model/android-view-model.pdf",
+    "lectures/web-applications-in-node-js/web-applications-in-node-js.pdf",
+    "lectures/python-basics-part-1/python-basics-part-1.pptx",
+    "lectures/same-origin-policy-and-cross-origin-resource-sharing/sop-and-cors.pdf",
+    "lectures/sop-and-cors/sop-and-cors.pdf",
+    "lectures/android-recycler-view/android-recycler-view.pdf",
+    "lectures/android-cloud-firestore/android-cloud-firestore.pdf",
+    "courses/client-server-communication/files/tutorial-04-frontend.zip",
+    "courses/client-server-communication/files/tutorial-06-frontend.zip",
+    "courses/client-server-communication/files/tutorial-02.zip",
+    "lectures/python-basics-part-2/python-basics-part-2.pdf",
+    "lectures/python-abstraction/python-abstraction.pptx",
+    "lectures/html/html.pptx",
+    "lectures/using-cookies-and-sessions-in-express/cookies-and-sessions-in-express.pdf",
+    "lectures/android-backward-compatible/android-backward-compatible.pdf",
+    "lectures/android-dialogs/android-dialogs.pdf",
+    "lectures/third-party-authentication/third-party-authentication.pdf",
+    "lectures/android-gps/android-gps.pptx",
+    "lectures/character-encodings/character-encodings.pdf",
+    "lectures/node-js/node-js.pdf",
+    "lectures/python-dicts/python-dicts.pdf",
+    "courses/android-development/files/project-report-template.docx",
+    "lectures/android-scheduling/android-scheduling.pptx",
+    "lectures/android-file-storage/android-file-storage.pptx",
+    "lectures/amazon-lightsail/amazon-lightsail.pdf",
+    "lectures/npm/npm.pdf",
+    "lectures/cloud-firestore/cloud-firestore.pdf",
+    "teacher-pictures/martin-lindh.jpeg",
+    "lectures/python-introduction/python-introduction.pptx",
+    "lectures/javascript-basics/javascript-basics.pptx",
+    "lectures/python-introduction/python-introduction.pdf",
+    "lectures/python-abstraction/python-abstraction.pdf",
+    "lectures/rest-api-authorization/rest-api-authorization.pptx",
+    "lectures/rest-api-basics/rest-api-basics.pptx",
+    "lectures/android-conditional-resources/android-conditional-resources.pdf",
+    "lectures/css/css.pptx",
+    "assets/js/v-64552718.61bc0029.js",
+    "lectures/cookies-and-sessions/cookies-and-sessions.pdf",
+    "lectures/http-and-web-applications/http-and-web-applications.pptx",
+    "assets/js/v-0f59beba.82fdbb38.js",
+    "lectures/docker-basics/docker-basics.pptx",
+    "lectures/scaling-databases/scaling-databases.pptx",
+    "lectures/json-web-tokens/json-web-tokens.pdf",
+    "lectures/android-activities/android-activities.pptx",
+    "lectures/python-conditions/python-conditions.pptx",
+    "assets/js/v-ff4b95cc.e2058f8f.js",
+    "lectures/kotlin/kotlin.pptx",
+    "lectures/python-data-storage/python-data-storage.pptx",
+    "lectures/android-content-providers/android-content-providers.pptx",
+    "lectures/android-dialogs/android-dialogs.pptx",
+    "lectures/python-loops/python-loops.pptx",
+    "lectures/android-runtime-configuration-changes/android-runtime-configuration-changes.pptx",
+    "assets/js/v-5ca189d4.bccc76b2.js",
+    "lectures/android-asynchronous-operations/android-asynchronous-operations.pptx",
+    "lectures/android-bluetooth-classic/chatti.zip",
+    "lectures/rest-api-in-express/rest-api-in-express.pdf",
+    "lectures/same-origin-policy-and-cross-origin-resource-sharing/sop-and-cors.pptx",
+    "lectures/sop-and-cors/sop-and-cors.pptx",
+    "courses/client-server-communication/files/exam-2019-01-09.pdf",
+    "lectures/python-lists/python-lists.pptx",
+    "lectures/android-list-view/android-list-view.pptx",
+    "assets/js/v-3f30b5d7.90f35ae7.js",
+    "lectures/python-modules/python-modules.pdf",
+    "assets/js/v-7dd976e3.7e05b39a.js",
+    "lectures/web-applications-in-express/web-applications-in-express.pptx",
+    "lectures/python-object-oriented-programming/python-object-oriented-programming.pptx",
+    "lectures/android-sensors/android-sensors.pptx",
+    "lectures/android-fragments/android-fragments.pptx",
+    "lectures/cloud-firestore/cloud-firestore.pptx",
+    "assets/img/getting-started-install-python.b7dc7c02.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-install-python.png",
+    "lectures/android-services/android-services.pptx",
+    "lectures/using-sequelize-in-node-js/using-sequelize-in-node-js.pptx",
+    "lectures/python-functions/python-functions.pptx",
+    "assets/img/getting-started-vs-code-create-project.ab33bc45.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-vs-code-create-project.png",
+    "lectures/sqlite/sqlite.pptx",
+    "assets/js/v-de7df588.88977aa3.js",
+    "lectures/cookies-and-sessions/cookies-and-sessions.pptx",
+    "lectures/handling-concurrent-http-requests/handling-concurrent-http-requests.pptx",
+    "lectures/scaling-web-applications/scaling-web-applications.pptx",
+    "lectures/layered-architecture-in-node-js/layered-architecture-in-node-js.pptx",
+    "lectures/internet-basics/internet-basics.pdf",
+    "assets/js/v-58a1373b.4a0682ff.js",
+    "lectures/document-object-model/document-object-model.pptx",
+    "lectures/internet-basics/internet-basics.pptx",
+    "lectures/python-basics-part-2/python-basics-part-2.pptx",
+    "lectures/python-strings/python-strings.pptx",
+    "assets/js/1812.04b2fb73.js",
+    "lectures/android-bluetooth-classic/android-bluetooth-classic.pptx",
+    "lectures/android-cloud-firestore/android-cloud-firestore.pptx",
+    "lectures/android-design-patterns/android-design-patterns.pptx",
+    "courses/android-development/files/tutorial-03.zip",
+    "lectures/handlebars/handlebars.pptx",
+    "lectures/android-sqlite-database/android-sqlite-database.pptx",
+    "assets/js/v-e81bb480.25733fa0.js",
+    "lectures/express-basics/express-basics.pptx",
+    "lectures/kotlin-asynchronous-operations/kotlin-asynchronous-operations.pptx",
+    "lectures/android-recycler-view/android-recycler-view.pptx",
+    "assets/js/v-815f5422.b90a119f.js",
+    "courses/android-development/files/tutorial-04.zip",
+    "courses/android-development/files/tutorial-01.zip",
+    "lectures/ajax/ajax.pptx",
+    "lectures/npm/npm.pptx",
+    "lectures/using-sqlite-in-node-js/using-sqlite-in-node-js.pptx",
+    "lectures/python-dicts/python-dicts.pptx",
+    "assets/img/getting-started-download-python.c007b91d.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-download-python.png",
+    "lectures/html-and-css-frameworks/html-and-css-frameworks.pdf",
+    "lectures/android-view-model/android-view-model.pptx",
+    "lectures/html-and-css-frameworks/html-and-css-frameworks.pptx",
+    "lectures/dependency-injection-in-node-js/dependency-injection-in-node-js.pptx",
+    "assets/js/v-18bd48f2.3410bbbf.js",
+    "assets/js/v-18fce10e.3a2d2631.js",
+    "lectures/client-side-javascript-and-bom/client-side-javascript-and-bom.pptx",
+    "lectures/web-applications-in-node-js/web-applications-in-node-js.pptx",
+    "lectures/android-conditional-resources/android-conditional-resources.pptx",
+    "lectures/android-backward-compatible/android-backward-compatible.pptx",
+    "lectures/node-js/node-js.pptx",
+    "lectures/amazon-lightsail/amazon-lightsail.pptx",
+    "lectures/third-party-authentication/third-party-authentication.pptx",
+    "lectures/using-cookies-and-sessions-in-express/cookies-and-sessions-in-express.pptx",
+    "assets/img/getting-started-download-vs-code.373f248a.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-download-vs-code.png",
+    "lectures/rest-api-in-express/rest-api-in-express.pptx",
+    "lectures/character-encodings/character-encodings.pptx",
+    "lectures/python-modules/python-modules.pptx",
+    "lectures/json-web-tokens/json-web-tokens.pptx",
+    "lectures/using-shells/using-shells.pdf",
+    "assets/img/getting-started-install-vs-code.0996437c.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-install-vs-code.png",
+    "assets/js/v-33b819ef.3f03a22a.js",
+    "assets/js/v-2db16f32.de648ec4.js",
+    "lectures/using-shells/using-shells.pptx",
+    "assets/js/v-43b69cf1.d409a2cd.js",
+    "assets/img/getting-started-vs-code-writing-python.00394640.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-vs-code-writing-python.png",
+    "assets/img/getting-started-run-powershell.56f01460.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-run-powershell.png",
+    "assets/img/lab-1-ids.37de759b.png",
+    "courses/introduction-to-script-programming/files/labs/lab-1-ids.png",
+    "teacher-pictures/filip-andersson.jpeg",
+    "teacher-pictures/peter-larsson-green.jpeg",
+    "assets/img/getting-started-vs-code-running-python.2435890f.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-vs-code-running-python.png",
+    "teacher-pictures/fredrik-sjolander.jpeg",
+    "assets/js/v-77a5618b.25e545a8.js",
+    "assets/js/v-f63c0162.026433ec.js",
+    "assets/js/v-0157d02a.8b641d24.js",
+    "assets/img/lab-5-csv-in-excell.e6daad7e.png",
+    "courses/introduction-to-script-programming/files/labs/lab-5-csv-in-excell.png",
+    "assets/js/v-3012332e.6bc9f882.js",
+    "teacher-pictures/rigmor-skoglund.jpeg",
+    "teacher-pictures/linus-rudbeck.jpeg",
+    "assets/js/v-9c1bdfa0.76ce1250.js",
+    "assets/js/app.f6603639.js",
+    "assets/js/v-052963ee.cbaafa9f.js",
+    "teacher-pictures/johannes-schmidt.jpeg",
+    "assets/js/v-12fe5b9b.36f9e7c8.js",
+    "teacher-pictures/simon-arvidsson.jpeg",
+    "assets/js/v-7e0b9ae0.07deed79.js",
+    "assets/js/v-c804b61c.51e73689.js",
+    "assets/js/v-448d32ad.60a98a16.js",
+    "assets/js/v-1ea863d6.2eb92555.js",
+    "assets/img/lab-4-delivery-content.aadfa00f.png",
+    "courses/introduction-to-script-programming/files/labs/lab-4-delivery-content.png",
+    "assets/img/getting-started-notepad.11176350.png",
+    "courses/introduction-to-script-programming/files/exercises/getting-started-notepad.png",
+    "assets/js/v-d2aff6fa.8eb51e4e.js",
+    "assets/js/v-2f725a65.6f8c72fb.js",
+    "courses/web-development-advanced-concepts/files/the-community.zip",
+    "assets/js/v-1f80b6dc.56aec84b.js",
+    "courses/web-development-advanced-concepts/files/project-report-template.docx",
+    "assets/js/v-1195968e.95f6a90b.js",
+    "teacher-pictures/makail-ismail-ahmed.jpeg",
+    "assets/js/v-d8d0c3dc.66bbd3e8.js",
+    "assets/img/screenshot.d809c712.png",
+    "lectures/report-writing/screenshot.png",
+    "assets/css/styles.60e6ff5b.css",
+    "assets/js/v-75848064.f3e6643b.js",
+    "courses/client-server-communication/files/project-report-template.docx",
+    "assets/img/lab-6-construction-entity.47638128.png",
+    "courses/introduction-to-script-programming/files/labs/lab-6-construction-entity.png",
+    "assets/img/lab-4-naming-model.e79bbcc9.png",
+    "courses/introduction-to-script-programming/files/labs/lab-4-naming-model.png",
+    "assets/js/v-38e34944.1ab975b5.js",
+    "teacher-pictures/william-sjokvist.jpeg",
+    "assets/img/lab-1-lcc-formula.c3626955.png",
+    "courses/introduction-to-script-programming/files/labs/lab-1-lcc-formula.png",
+    "assets/js/v-91f742d8.d2b25f1c.js",
+    "assets/js/v-f63179be.bfa029fb.js",
+    "teacher-pictures/adyasha-swain.jpeg",
+    "assets/js/v-3b29a058.c4a625f7.js",
+    "courses/web-development-fundamentals/files/tutorial-06.zip",
+    "courses/web-development-fundamentals/files/tutorial-05.zip",
+    "assets/js/v-2279bc04.1376b4c2.js",
+    "courses/web-development-fundamentals/files/tutorial-04.zip",
+    "courses/web-development-fundamentals/files/tutorial-06-vulnerabilities.zip",
+    "assets/js/v-0026cf7f.128215b5.js",
+    "courses/client-server-communication/files/activity-finder-backend.zip",
+    "courses/client-server-communication/files/tutorial-06-backend.zip",
+    "assets/js/layout-Layout.67beea02.js",
+    "courses/web-development-advanced-concepts/files/tutorial-04/three-layered-app.zip",
+    "assets/js/v-234b2462.dc6e9367.js",
+    "assets/js/v-748b05f7.50a6921f.js",
+    "courses/client-server-communication/files/tutorial-05-backend.zip",
+    "assets/js/v-b6503f7a.fb6e2ba0.js",
+    "assets/js/v-cd4cfd56.26cfdf81.js",
+    "teacher-pictures/muhammad-ismail.jpeg",
+    "assets/js/v-2036633a.76fc1cc0.js",
+    "assets/js/v-ec85209c.260f82f6.js",
+    "assets/js/v-62b91ae7.4b6a5509.js",
+    "assets/js/v-11832447.fd279a1f.js",
+    "courses/client-server-communication/files/tutorial-04-backend.zip",
+    "assets/js/v-5bb8d842.30da56dc.js",
+    "courses/client-server-communication/files/tutorial-03.zip",
+    "assets/js/v-2e9a2415.b95600b7.js",
+    "assets/js/v-54e2f395.bff600c2.js",
+    "courses/client-server-communication/files/exam-2019-10-15-sample-answers.txt",
+    "assets/js/v-fdbd1d2c.1c2396eb.js",
+    "courses/client-server-communication/files/exam-2020-08-13-sample-answers.txt",
+    "assets/js/v-33315f34.4b7c99eb.js",
+    "assets/js/v-7f3a40d0.f2277e3d.js",
+    "assets/img/lab-1-present-value-factor.5cab978f.png",
+    "courses/introduction-to-script-programming/files/labs/lab-1-present-value-factor.png",
+    "teacher-pictures/johan-kohlin.jpeg",
+    "assets/js/v-0fa30a06.5555338e.js",
+    "assets/js/v-3fb714cc.565758c5.js",
+    "assets/img/lab-6-connect-four-with-moves.4159ffd0.png",
+    "courses/introduction-to-script-programming/files/labs/lab-6-connect-four-with-moves.png",
+    "assets/img/lab-6-connect-four-empty.d853bd49.png",
+    "courses/introduction-to-script-programming/files/labs/lab-6-connect-four-empty.png",
+    "teacher-pictures/missing.jpeg",
+    "assets/js/v-c7c21722.92aff20e.js",
+    "courses/web-development-fundamentals/files/tutorial-03.zip",
+    "assets/js/runtime~app.56804a52.js",
+    "lectures/html/html-elements.html",
+    "assets/js/v-8994abb6.4d384074.js",
+    "assets/js/v-7a2fef0c.aa718e86.js",
+    "courses/web-development-advanced-concepts/files/lab-01-table-of-contents.html",
+    "assets/js/v-5e9ba7bc.87a3a90b.js",
+    "assets/js/v-47a3d5e4.06c4a179.js",
+    "assets/js/v-dce9761c.a5e3ee4e.js",
+    "courses/web-development-advanced-concepts/files/course-syllabus-2022.html",
+    "courses/web-development-advanced-concepts/files/course-syllabus-2020.html",
+    "courses/web-development-advanced-concepts/files/course-syllabus-2021.html",
+    "courses/introduction-to-script-programming/files/course-syllabus-2019-tspg17.html",
+    "courses/introduction-to-script-programming/files/course-syllabus-2021-tspg17.html",
+    "courses/introduction-to-script-programming/files/course-syllabus-2019-tstg17.html",
+    "assets/js/v-14005007.93b3754e.js",
+    "courses/introduction-to-script-programming/files/course-syllabus-2020-tstg17.html",
+    "courses/introduction-to-script-programming/files/course-syllabus-2021-tstg17.html",
+    "courses/client-server-communication/files/course-syllabus-2019.html",
+    "assets/js/v-1eb3f448.2e82d027.js",
+    "courses/web-development-fundamentals/files/course-syllabus-2019.html",
+    "courses/android-development/files/course-syllabus-2022.html",
+    "courses/introduction-to-script-programming/files/labs/ConnectFour.py",
+    "lectures/css/css-properties.html",
+    "courses/web-development-fundamentals/files/course-syllabus-2021.html",
+    "courses/web-development-fundamentals/files/course-syllabus-2020.html",
+    "courses/android-development/files/course-syllabus-2021.html",
+    "courses/android-development/files/course-syllabus-2020.html",
+    "assets/js/v-01f0039e.84e24907.js",
+    "assets/js/v-0cbcc1e4.3b772f70.js",
+    "courses/web-development-advanced-concepts/files/tutorial-06/humans-platform.zip",
+    "assets/js/v-3cb47198.51729579.js",
+    "assets/js/v-7f920989.db194e89.js",
+    "teacher-pictures/joshua-de-matas.jpeg",
+    "assets/js/v-5dcb4a62.2a56949b.js",
+    "assets/js/v-2479b406.fd2b1935.js",
+    "assets/js/v-8723adec.6e4d7565.js",
+    "assets/js/v-09054f74.4ffb21e1.js",
+    "courses/client-server-communication/files/activity-finder-client.js",
+    "assets/js/v-2b7f1760.3f91f11a.js",
+    "assets/js/v-54cdf2c4.8c726258.js",
+    "assets/js/v-55debfe0.e360a9c1.js",
+    "assets/js/v-63b3ad24.6dd3f1d6.js",
+    "assets/js/v-49bb8916.e31e506b.js",
+    "assets/js/v-6b0a5335.0a6c6522.js",
+    "assets/js/v-5b18e8df.3ba65d85.js",
+    "assets/js/v-8daa1a0e.5d3dfc90.js",
+    "assets/js/v-22e3845b.4cc88707.js",
+    "assets/js/v-243d8166.e137f213.js",
+    "assets/js/v-14d2aae8.b798c633.js",
+    "assets/js/v-aeaf1fe6.4e4badf8.js",
+    "lectures/report-writing/code-as-image.png",
+    "assets/js/v-d894191c.e15f0f17.js",
+    "assets/js/v-4dde9732.b3c6d950.js",
+    "assets/js/v-3459e794.18cbfd43.js",
+    "assets/js/v-2801ad2a.35ad0987.js",
+    "assets/js/v-1327cdf0.dffb9482.js",
+    "assets/js/v-f8691880.14898d75.js",
+    "assets/js/v-954c9a20.170b4a78.js",
+    "assets/js/v-1df125fc.a7454164.js",
+    "assets/js/v-645c8f3e.d6013b22.js",
+    "assets/js/v-7e31d334.f3af3f47.js",
+    "assets/js/v-7401f546.fba785ca.js",
+    "assets/js/v-15096b13.74dbc5c1.js",
+    "assets/js/v-e9b2497a.f1f1ab04.js",
+    "assets/js/v-7d0036a7.6264805a.js",
+    "assets/js/v-3ebed4ec.c5a82935.js",
+    "assets/js/v-630f9862.7b54f926.js",
+    "assets/js/v-2f81c5c3.fe9905ee.js",
+    "assets/js/v-e799954c.9398e2fa.js",
+    "assets/js/v-4ffdc4e0.510972fe.js",
+    "assets/js/v-7bd9c0bb.6979d4df.js",
+    "assets/js/v-c93553dc.77d54d78.js",
+    "assets/js/v-661954c4.29eb5c32.js",
+    "assets/js/v-bdc36168.ef7ab893.js",
+    "assets/js/v-2a8c6e09.c917c856.js",
+    "assets/js/v-3128bcac.f636c460.js",
+    "assets/js/v-62d9aca8.59c3c19d.js",
+    "assets/js/v-41d84619.c229348a.js",
+    "assets/js/v-810fb434.7bb75b2f.js",
+    "assets/js/v-e6eed994.fe278f62.js",
+    "assets/js/v-2b690dde.3b7f0277.js",
+    "assets/js/v-d721933e.4e7d14fb.js",
+    "assets/js/v-66ca1407.db8051df.js",
+    "assets/js/v-f4c42d50.e0e1696d.js",
+    "assets/js/v-c2025ac6.4f351d5d.js",
+    "assets/js/3785.0c526956.js",
+    "assets/js/v-f3dfd408.1fafeb72.js",
+    "assets/js/v-9448f960.578cdf13.js",
+    "assets/js/v-b4de4454.7433acbc.js",
+    "assets/js/v-46c37ff8.99f452cd.js",
+    "assets/js/v-10617a26.02e50231.js",
+    "assets/js/v-4fffb5e2.2506b608.js",
+    "assets/js/v-4c84d27c.ce731584.js",
+    "assets/js/v-6ebdf43b.d4a948d3.js",
+    "assets/js/v-24339936.451015e4.js",
+    "assets/js/v-1e0b6f67.f8941acc.js",
+    "assets/js/v-3ec9963c.9130d775.js",
+    "assets/js/v-4be091cc.2ae0fa76.js",
+    "assets/js/v-245ddad7.e54fdd5c.js",
+    "assets/js/v-5d6e9692.d9b1b59c.js",
+    "assets/js/v-4c352c5a.827d371f.js",
+    "assets/js/v-6d1ceed5.f0d41174.js",
+    "courses/web-development-fundamentals/files/tutorial-02-layout-spectre.zip",
+    "assets/js/v-308363a0.16376b26.js",
+    "assets/js/v-18f3cd95.7f32f51f.js",
+    "assets/js/v-1e37e1a9.4895fae6.js",
+    "courses/web-development-fundamentals/files/tutorial-02-layout-grid.zip",
+    "assets/js/9268.670fe416.js",
+    "assets/js/v-54753746.98a02e8d.js",
+    "assets/js/v-28429238.b895937d.js",
+    "assets/js/v-4ffdc4ff.dde210e8.js",
+    "assets/js/v-62e4f57a.41d45cc9.js",
+    "assets/js/v-ba434b7a.d14423bf.js",
+    "assets/js/v-60b038c6.88dc405d.js",
+    "assets/js/v-54e9e571.b2fb4bb9.js",
+    "courses/web-development-fundamentals/files/tutorial-02-layout-block.zip",
+    "assets/js/v-462f65b8.e4987fe1.js",
+    "assets/js/v-58147338.621e1e86.js",
+    "assets/js/v-cac6ea06.04c74c8d.js",
+    "assets/js/v-a4f4ea2a.a9af6a90.js",
+    "assets/js/v-07ee4796.9eb63ba0.js",
+    "assets/js/6589.5d89aab7.js",
+    "assets/js/v-62bd9ca8.16573113.js",
+    "assets/js/v-7450cb50.699e72eb.js",
+    "assets/js/v-39872bdc.a8699d15.js",
+    "assets/js/v-b1010a36.c711dc05.js",
+    "assets/js/v-bc0e457c.d2ac24f7.js",
+    "assets/js/v-946554ca.df70373e.js",
+    "assets/js/v-254a83e8.1205aa0d.js",
+    "assets/js/v-e5ed128e.77d571bd.js",
+    "assets/js/v-0a07197e.63c40334.js",
+    "assets/js/v-3f1c560e.d637fa36.js",
+    "assets/js/v-242c2fac.57506491.js",
+    "assets/js/v-6be4a554.ef2c40ff.js",
+    "assets/js/v-4daa745a.d3c8416e.js",
+    "assets/js/v-2046e544.476b1b88.js",
+    "assets/js/v-214397d1.8a159f93.js",
+    "courses/web-development-fundamentals/files/tutorial-01.zip",
+    "assets/js/v-042ef170.3c7a9112.js",
+    "courses/web-development-advanced-concepts/files/lab-04-tabs.html",
+    "assets/js/2869.2729d49f.js",
+    "assets/js/7237.1fad7287.js",
+    "assets/js/3102.11aa09e6.js",
+    "assets/js/v-202db59a.17bb4b5a.js",
+    "assets/js/v-c8a5cbc6.126565a1.js",
+    "assets/js/v-13e76588.81d73164.js",
+    "assets/js/9600.8653e80a.js",
+    "assets/js/3236.9e3807a0.js",
+    "courses/web-development-advanced-concepts/files/tutorial-01/04-friends.html",
+    "assets/js/290.300df5c9.js",
+    "courses/web-development-advanced-concepts/files/lab-02-calculator.html",
+    "courses/web-development-advanced-concepts/files/tutorial-01/03-clock.html",
+    "courses/introduction-to-script-programming/files/exercises/HangmanGame.py",
+    "courses/web-development-advanced-concepts/files/tutorial-01/02-power-of-3.html",
+    "assets/js/v-72920372.7e0e6527.js",
+    "courses/client-server-communication/files/exam-case-2020-01-08.txt",
+    "assets/js/6501.c7207ee2.js",
+    "assets/js/930.3c21c2de.js",
+    "assets/js/layout-404.b957c2d4.js",
+    "assets/js/9581.1ed8dc04.js",
+    "courses/web-development-advanced-concepts/files/lab-03-form-validation.html",
+    "courses/web-development-advanced-concepts/files/tutorial-01/01-buttons.html",
+    "assets/js/3017.1976939b.js",
+    "assets/js/6603.c6743104.js",
+    "assets/js/v-3706649a.f316e619.js",
+    "assets/js/8426.3fb35d24.js",
+    "assets/css/6918.styles.58e8080c.css",
+    "assets/css/7229.styles.e4ff5232.css",
+    "courses/introduction-to-script-programming/files/labs/BIM3HUS13.xml",
+    "courses/introduction-to-script-programming/files/labs/BIMHUS21.xml",
+    "assets/css/2665.styles.57f88741.css",
+    "courses/introduction-to-script-programming/files/labs/BIM3HUS24.xml",
+    "courses/introduction-to-script-programming/files/labs/BIM3HUS14.xml",
+    "courses/introduction-to-script-programming/files/labs/BIM3HUS12.xml",
+    "assets/css/6963.styles.9adbd5c1.css",
+    "assets/css/4214.styles.5c3317ee.css",
+    "assets/img/back-to-top.8b37f773.svg",
+    "assets/css/9421.styles.6acd660e.css",
+    "assets/css/8302.styles.00c3fb14.css",
+    "assets/css/22.styles.6611ac81.css",
+    "assets/css/6266.styles.4d6f1f27.css",
+    "assets/css/1867.styles.46c67268.css",
+    "assets/css/3557.styles.a5d11a0c.css",
+    "assets/css/623.styles.f52344c7.css",
+    "assets/css/4666.styles.a07f58ae.css",
+    "assets/css/7456.styles.0771bc35.css",
+    "courses/introduction-to-script-programming/files/exercises/numbers.txt"
+  ],
+  "initial": [
+    "assets/js/runtime~app.56804a52.js",
+    "assets/css/styles.60e6ff5b.css",
+    "assets/js/1812.04b2fb73.js",
+    "assets/js/app.f6603639.js"
+  ],
+  "async": [
+    "assets/js/6614.03ae2f0d.js",
+    "assets/js/v-7e7ef5e7.5c7b84e8.js",
+    "assets/js/v-64552718.61bc0029.js",
+    "assets/js/v-0f59beba.82fdbb38.js",
+    "assets/js/v-ff4b95cc.e2058f8f.js",
+    "assets/js/v-5ca189d4.bccc76b2.js",
+    "assets/js/v-3f30b5d7.90f35ae7.js",
+    "assets/js/v-7dd976e3.7e05b39a.js",
+    "assets/js/v-de7df588.88977aa3.js",
+    "assets/js/v-58a1373b.4a0682ff.js",
+    "assets/js/v-e81bb480.25733fa0.js",
+    "assets/js/v-815f5422.b90a119f.js",
+    "assets/js/v-18bd48f2.3410bbbf.js",
+    "assets/js/v-18fce10e.3a2d2631.js",
+    "assets/js/v-33b819ef.3f03a22a.js",
+    "assets/js/v-2db16f32.de648ec4.js",
+    "assets/js/v-43b69cf1.d409a2cd.js",
+    "assets/js/v-77a5618b.25e545a8.js",
+    "assets/js/v-f63c0162.026433ec.js",
+    "assets/js/v-0157d02a.8b641d24.js",
+    "assets/js/v-3012332e.6bc9f882.js",
+    "assets/js/v-9c1bdfa0.76ce1250.js",
+    "assets/js/v-052963ee.cbaafa9f.js",
+    "assets/js/v-12fe5b9b.36f9e7c8.js",
+    "assets/js/v-7e0b9ae0.07deed79.js",
+    "assets/js/v-c804b61c.51e73689.js",
+    "assets/js/v-448d32ad.60a98a16.js",
+    "assets/js/v-1ea863d6.2eb92555.js",
+    "assets/js/v-d2aff6fa.8eb51e4e.js",
+    "assets/js/v-2f725a65.6f8c72fb.js",
+    "assets/js/v-1f80b6dc.56aec84b.js",
+    "assets/js/v-1195968e.95f6a90b.js",
+    "assets/js/v-d8d0c3dc.66bbd3e8.js",
+    "assets/js/v-75848064.f3e6643b.js",
+    "assets/js/v-38e34944.1ab975b5.js",
+    "assets/js/v-91f742d8.d2b25f1c.js",
+    "assets/js/v-f63179be.bfa029fb.js",
+    "assets/js/v-3b29a058.c4a625f7.js",
+    "assets/js/v-2279bc04.1376b4c2.js",
+    "assets/js/v-0026cf7f.128215b5.js",
+    "assets/js/layout-Layout.67beea02.js",
+    "assets/js/v-234b2462.dc6e9367.js",
+    "assets/js/v-748b05f7.50a6921f.js",
+    "assets/js/v-b6503f7a.fb6e2ba0.js",
+    "assets/js/v-cd4cfd56.26cfdf81.js",
+    "assets/js/v-2036633a.76fc1cc0.js",
+    "assets/js/v-ec85209c.260f82f6.js",
+    "assets/js/v-62b91ae7.4b6a5509.js",
+    "assets/js/v-11832447.fd279a1f.js",
+    "assets/js/v-5bb8d842.30da56dc.js",
+    "assets/js/v-2e9a2415.b95600b7.js",
+    "assets/js/v-54e2f395.bff600c2.js",
+    "assets/js/v-fdbd1d2c.1c2396eb.js",
+    "assets/js/v-33315f34.4b7c99eb.js",
+    "assets/js/v-7f3a40d0.f2277e3d.js",
+    "assets/js/v-0fa30a06.5555338e.js",
+    "assets/js/v-3fb714cc.565758c5.js",
+    "assets/js/v-c7c21722.92aff20e.js",
+    "assets/js/v-8994abb6.4d384074.js",
+    "assets/js/v-7a2fef0c.aa718e86.js",
+    "assets/js/v-5e9ba7bc.87a3a90b.js",
+    "assets/js/v-47a3d5e4.06c4a179.js",
+    "assets/js/v-dce9761c.a5e3ee4e.js",
+    "assets/js/v-14005007.93b3754e.js",
+    "assets/js/v-1eb3f448.2e82d027.js",
+    "assets/js/v-01f0039e.84e24907.js",
+    "assets/js/v-0cbcc1e4.3b772f70.js",
+    "assets/js/v-3cb47198.51729579.js",
+    "assets/js/v-7f920989.db194e89.js",
+    "assets/js/v-5dcb4a62.2a56949b.js",
+    "assets/js/v-2479b406.fd2b1935.js",
+    "assets/js/v-8723adec.6e4d7565.js",
+    "assets/js/v-09054f74.4ffb21e1.js",
+    "courses/client-server-communication/files/activity-finder-client.js",
+    "assets/js/v-2b7f1760.3f91f11a.js",
+    "assets/js/v-54cdf2c4.8c726258.js",
+    "assets/js/v-55debfe0.e360a9c1.js",
+    "assets/js/v-63b3ad24.6dd3f1d6.js",
+    "assets/js/v-49bb8916.e31e506b.js",
+    "assets/js/v-6b0a5335.0a6c6522.js",
+    "assets/js/v-5b18e8df.3ba65d85.js",
+    "assets/js/v-8daa1a0e.5d3dfc90.js",
+    "assets/js/v-22e3845b.4cc88707.js",
+    "assets/js/v-243d8166.e137f213.js",
+    "assets/js/v-14d2aae8.b798c633.js",
+    "assets/js/v-aeaf1fe6.4e4badf8.js",
+    "assets/js/v-d894191c.e15f0f17.js",
+    "assets/js/v-4dde9732.b3c6d950.js",
+    "assets/js/v-3459e794.18cbfd43.js",
+    "assets/js/v-2801ad2a.35ad0987.js",
+    "assets/js/v-1327cdf0.dffb9482.js",
+    "assets/js/v-f8691880.14898d75.js",
+    "assets/js/v-954c9a20.170b4a78.js",
+    "assets/js/v-1df125fc.a7454164.js",
+    "assets/js/v-645c8f3e.d6013b22.js",
+    "assets/js/v-7e31d334.f3af3f47.js",
+    "assets/js/v-7401f546.fba785ca.js",
+    "assets/js/v-15096b13.74dbc5c1.js",
+    "assets/js/v-e9b2497a.f1f1ab04.js",
+    "assets/js/v-7d0036a7.6264805a.js",
+    "assets/js/v-3ebed4ec.c5a82935.js",
+    "assets/js/v-630f9862.7b54f926.js",
+    "assets/js/v-2f81c5c3.fe9905ee.js",
+    "assets/js/v-e799954c.9398e2fa.js",
+    "assets/js/v-4ffdc4e0.510972fe.js",
+    "assets/js/v-7bd9c0bb.6979d4df.js",
+    "assets/js/v-c93553dc.77d54d78.js",
+    "assets/js/v-661954c4.29eb5c32.js",
+    "assets/js/v-bdc36168.ef7ab893.js",
+    "assets/js/v-2a8c6e09.c917c856.js",
+    "assets/js/v-3128bcac.f636c460.js",
+    "assets/js/v-62d9aca8.59c3c19d.js",
+    "assets/js/v-41d84619.c229348a.js",
+    "assets/js/v-810fb434.7bb75b2f.js",
+    "assets/js/v-e6eed994.fe278f62.js",
+    "assets/js/v-2b690dde.3b7f0277.js",
+    "assets/js/v-d721933e.4e7d14fb.js",
+    "assets/js/v-66ca1407.db8051df.js",
+    "assets/js/v-f4c42d50.e0e1696d.js",
+    "assets/js/v-c2025ac6.4f351d5d.js",
+    "assets/js/3785.0c526956.js",
+    "assets/js/v-f3dfd408.1fafeb72.js",
+    "assets/js/v-9448f960.578cdf13.js",
+    "assets/js/v-b4de4454.7433acbc.js",
+    "assets/js/v-46c37ff8.99f452cd.js",
+    "assets/js/v-10617a26.02e50231.js",
+    "assets/js/v-4fffb5e2.2506b608.js",
+    "assets/js/v-4c84d27c.ce731584.js",
+    "assets/js/v-6ebdf43b.d4a948d3.js",
+    "assets/js/v-24339936.451015e4.js",
+    "assets/js/v-1e0b6f67.f8941acc.js",
+    "assets/js/v-3ec9963c.9130d775.js",
+    "assets/js/v-4be091cc.2ae0fa76.js",
+    "assets/js/v-245ddad7.e54fdd5c.js",
+    "assets/js/v-5d6e9692.d9b1b59c.js",
+    "assets/js/v-4c352c5a.827d371f.js",
+    "assets/js/v-6d1ceed5.f0d41174.js",
+    "assets/js/v-308363a0.16376b26.js",
+    "assets/js/v-18f3cd95.7f32f51f.js",
+    "assets/js/v-1e37e1a9.4895fae6.js",
+    "assets/js/9268.670fe416.js",
+    "assets/js/v-54753746.98a02e8d.js",
+    "assets/js/v-28429238.b895937d.js",
+    "assets/js/v-4ffdc4ff.dde210e8.js",
+    "assets/js/v-62e4f57a.41d45cc9.js",
+    "assets/js/v-ba434b7a.d14423bf.js",
+    "assets/js/v-60b038c6.88dc405d.js",
+    "assets/js/v-54e9e571.b2fb4bb9.js",
+    "assets/js/v-462f65b8.e4987fe1.js",
+    "assets/js/v-58147338.621e1e86.js",
+    "assets/js/v-cac6ea06.04c74c8d.js",
+    "assets/js/v-a4f4ea2a.a9af6a90.js",
+    "assets/js/v-07ee4796.9eb63ba0.js",
+    "assets/js/6589.5d89aab7.js",
+    "assets/js/v-62bd9ca8.16573113.js",
+    "assets/js/v-7450cb50.699e72eb.js",
+    "assets/js/v-39872bdc.a8699d15.js",
+    "assets/js/v-b1010a36.c711dc05.js",
+    "assets/js/v-bc0e457c.d2ac24f7.js",
+    "assets/js/v-946554ca.df70373e.js",
+    "assets/js/v-254a83e8.1205aa0d.js",
+    "assets/js/v-e5ed128e.77d571bd.js",
+    "assets/js/v-0a07197e.63c40334.js",
+    "assets/js/v-3f1c560e.d637fa36.js",
+    "assets/js/v-242c2fac.57506491.js",
+    "assets/js/v-6be4a554.ef2c40ff.js",
+    "assets/js/v-4daa745a.d3c8416e.js",
+    "assets/js/v-2046e544.476b1b88.js",
+    "assets/js/v-214397d1.8a159f93.js",
+    "assets/js/v-042ef170.3c7a9112.js",
+    "assets/js/2869.2729d49f.js",
+    "assets/js/7237.1fad7287.js",
+    "assets/js/3102.11aa09e6.js",
+    "assets/js/v-202db59a.17bb4b5a.js",
+    "assets/js/v-c8a5cbc6.126565a1.js",
+    "assets/js/v-13e76588.81d73164.js",
+    "assets/js/9600.8653e80a.js",
+    "assets/js/3236.9e3807a0.js",
+    "assets/js/290.300df5c9.js",
+    "assets/js/v-72920372.7e0e6527.js",
+    "assets/js/6501.c7207ee2.js",
+    "assets/js/930.3c21c2de.js",
+    "assets/js/layout-404.b957c2d4.js",
+    "assets/js/9581.1ed8dc04.js",
+    "assets/js/3017.1976939b.js",
+    "assets/js/6603.c6743104.js",
+    "assets/js/v-3706649a.f316e619.js",
+    "assets/js/8426.3fb35d24.js",
+    "assets/css/6918.styles.58e8080c.css",
+    "assets/css/7229.styles.e4ff5232.css",
+    "assets/css/2665.styles.57f88741.css",
+    "assets/css/6963.styles.9adbd5c1.css",
+    "assets/css/4214.styles.5c3317ee.css",
+    "assets/css/9421.styles.6acd660e.css",
+    "assets/css/8302.styles.00c3fb14.css",
+    "assets/css/22.styles.6611ac81.css",
+    "assets/css/6266.styles.4d6f1f27.css",
+    "assets/css/1867.styles.46c67268.css",
+    "assets/css/3557.styles.a5d11a0c.css",
+    "assets/css/623.styles.f52344c7.css",
+    "assets/css/4666.styles.a07f58ae.css",
+    "assets/css/7456.styles.0771bc35.css"
+  ],
+  "modules": {
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\app.js|d541439a6293dae4dba877d05388cc05": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\clientAppEnhances.js|378ea0a31c2e3cbb46ffd2b071955036": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\pagesComponents.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\composables\\index.js|6f1a29f4012a7a630b8dc4788e90b014": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\shared\\lib\\esm\\index.js|390b23ce1c82f618b627f4349a6d0c32": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-router\\dist\\vue-router.esm-bundler.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vue\\runtime-dom\\dist\\runtime-dom.esm-bundler.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\clientAppRootComponents.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\clientAppSetups.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\pagesRoutes.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\clientAppEnhance.js|ca4afb1592454a3b760ab7494488738c": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\components\\index.js|5a455b6a6e6bb75d1fd4e208e2cdb98e": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vue\\shared\\dist\\shared.esm-bundler.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\components\\Vuepress.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\utils\\index.js|76f63fc8b2bd493d3479498c0bb1c71b": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-medium-zoom\\lib\\client\\clientAppEnhance.js|950dad2ed3263065cf00b0da3072b616": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-theme-data\\lib\\client\\clientAppEnhance.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-back-to-top\\lib\\client\\components\\BackToTop.js|c002f08842d5e80e26b336a21033ce65": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\clientAppSetup.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-active-header-links\\lib\\client\\clientAppSetup.js|137b0f2288780e646a21f3a9fd96dd04": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-nprogress\\lib\\client\\clientAppSetup.js|3f037e6776715a03f30291751c12290f": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\index.html.vue|6dd925d62e66f465d2c84e663a1cffc3": [
+      358
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\course-syllabus.html.vue|1f69bd960e00a5c247444d928473fc61": [
+      448
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\laboratory-work.html.vue|53c2450742c82dc8d53bbfbcf30fdb15": [
+      232
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\lectures.html.vue|9a5fb3f6654d1120ae3daa8d71a2e78d": [
+      318
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\project-grading-guidelines.html.vue|662fbe0e28543030e119de05425d7b93": [
+      289
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\project-work.html.vue|7714f8d0ac61235cec31b8a9cf2aad8c": [
+      249
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\index.html.vue|34d53a0a194ba87cdc4e0e712008735f": [
+      346
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\study-guide.html.vue|b5fae53ca24d113d154001deadcbae2e": [
+      284
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\time-plan.html.vue|f98aa4d953bfbe3023aed316d0b7eaaa": [
+      365
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\tutorials.html.vue|8451a481c02a3032534b27bf6e3f6971": [
+      347
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\course-syllabus.html.vue|ed16c146e860276042ef1b90d13cba8c": [
+      456
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\lab-instructions.html.vue|0ce5d9534b0471e24b23c020df73f820": [
+      141
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\lectures.html.vue|a2c894e69826d82fea05df48d7656e5b": [
+      375
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\project-grading-guidelines.html.vue|8aa781762a0a9592f2361709748b4721": [
+      300
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\project-instructions.html.vue|9ed01ddd11e2c0fbaa0d99c1e134343a": [
+      177
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\index.html.vue|955b53c036da15108c352501252f375c": [
+      449
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\sample-exam.html.vue|66e65d5a9630f1c139f48796901bac6e": [
+      458
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\study-guide.html.vue|d168756a3a595ea988cbd42d238dab16": [
+      288
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\time-plan.html.vue|dc51e328bb6700af6cce992cd411646f": [
+      394
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\tutorials.html.vue|3fb1b139ec1ea1c0ddce4841da2f8f2c": [
+      356
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\git\\index.html.vue|cc5cc22ece00dcd671bf84d1027e7203": [
+      362
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\object-oriented-software-development\\lab-1-example.html.vue|399d11b803308317adc7b7dd37a5d95a": [
+      316
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\course-syllabus.html.vue|e6444d9bef88669d697288c6b862052e": [
+      446
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\laboratory-work.html.vue|f9765f11564194cbad5e195c932ca005": [
+      292
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\lectures.html.vue|af195a50d7e8f86e194dc8f8d215a42e": [
+      351
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\project-grading-guidelines.html.vue|af42aff1a344df2c34c16210ee21dcf7": [
+      295
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\project-work.html.vue|e3c087bb1896a28130931451617189e0": [
+      173
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\index.html.vue|ad5f48dce9f97b8f595ab63315d32bb0": [
+      349
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\study-guide.html.vue|7591140f1927ece3368d27302e4cedc1": [
+      285
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\time-plan.html.vue|fb7556c88ca500440ef894e986ba4b78": [
+      385
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\tutorials.html.vue|ee7832b24234c2b91c75cf72cbc3b971": [
+      343
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\written-examination.html.vue|34787b29a475b45f47db2e8fc5095ce7": [
+      320
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\course-syllabus.html.vue|83a3ae28a40bd74ccc6e3b9d52b49786": [
+      451
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exercises.html.vue|d799c431e9ba6b439cc2eaf16336776c": [
+      273
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\feedback.html.vue|ceb2262b5886221355094cfbd01a6bf9": [
+      257
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\lectures.html.vue|e0df00ffc7f6d5194f06b3d86e0f040b": [
+      352
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\project-grading-guidelines.html.vue|4348699c6b34f466c68fc2b5746cd60a": [
+      287
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\project-work.html.vue|4d9730ecf529907e4593adcba5f0171f": [
+      191
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\index.html.vue|5976ec2f8bbc897ce884c1dba476da7e": [
+      373
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\sample-exam.html.vue|d83f7e7764127f67b8ce9d8dff2e4a70": [
+      457
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\study-guide.html.vue|e72520e61b9877c976bd8ba65e0714cf": [
+      290
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\time-plan.html.vue|931c9bd51439fbf7756e3985f37bb9cf": [
+      366
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\tutorials.html.vue|a5c0e1bfa27b206698ae1544a6f89e72": [
+      348
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\written-examination.html.vue|f93494c25917f3275e1effb4c8c38fc2": [
+      319
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\course-syllabus.html.vue|4afdf4bd578634d2967f832b20a1f407": [
+      432
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exercises.html.vue|bf79b626392b3f3ee5a5f9c566a8080e": [
+      50
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\laboratory-work.html.vue|f121c539a8025b861ee433cd2c7aca5a": [
+      139
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\lectures.html.vue|3c27cf11ccfb07008efe06c80613fefb": [
+      359
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\index.html.vue|35043214a4589bf6a1d8afb15e413671": [
+      344
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\study-guide.html.vue|493ccb7683433461166f7cba187716b9": [
+      297
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\time-plan.html.vue|ce95570f6329919cb59e425b8f0a8fcc": [
+      390
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\written-examination.html.vue|32f756c945ad607dde215b99b578033f": [
+      327
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\after-peters-exam\\index.html.vue|3a69b1bd8e217aaf3b9b5a6f0fb7ac1c": [
+      331
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\ajax\\index.html.vue|9ed46a41eee582a1b5eef60d0b978117": [
+      354
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\amazon-lightsail\\index.html.vue|748effd26dcaf138871666fe38f2e36f": [
+      400
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-app-bar\\index.html.vue|7ffd15ed41f0c34b3e3b1ae6b09c9469": [
+      190
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-asynchronous-operations\\index.html.vue|e26c7c6a1a63e0031ab29021ade21e26": [
+      397
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-activities\\index.html.vue|f24045676bdd58a0243f7c652a119b44": [
+      117
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-backward-compatible\\index.html.vue|58f8789015d77b7ba474283f3ae49948": [
+      436
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-bluetooth-classic\\index.html.vue|cf1616f469e11d2d3e1fe744f59023a5": [
+      406
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-bottom-navigation-view-and-drawer-layout\\index.html.vue|228207dc965d1dc885fbec3fa593d24d": [
+      427
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-broadcast-receivers\\index.html.vue|df1731379f8324dff84934971182ed2f": [
+      392
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-cloud-firestore\\index.html.vue|45b90c99fb49a4437cfa02e78d3618a0": [
+      440
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-conditional-resources\\index.html.vue|2081ac09d4af7c14e44e828c047d7d17": [
+      370
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-constraint-layout\\index.html.vue|140233be1c70dbf362297b7da34602c4": [
+      114
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-content-providers\\index.html.vue|1a3e783b8994e1f636693fd67954281e": [
+      369
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-coordinator-layout\\index.html.vue|e799669ff61d0febbcaeb974d1581790": [
+      229
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-design-patterns\\index.html.vue|935ac786f729350dcc81022643ffec39": [
+      409
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-dialogs\\index.html.vue|3d79c8ccb3c15f42f99f6a830e5b8b12": [
+      425
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-file-storage\\index.html.vue|1eaa0fbe7afed6effd6730fc87a70dd3": [
+      426
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-fragments\\index.html.vue|48e298f513dcb3f759c922a8df5e12f9": [
+      224
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-fundamental-application-components\\index.html.vue|564cd33ae271695abb37d69b084f3100": [
+      294
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-gps\\index.html.vue|0888bb7422520716299153ad24eb6208": [
+      429
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-introduction\\index.html.vue|acd68debcf8beb3a80930e46b000271f": [
+      401
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-linear-layout\\index.html.vue|28bd0dadfcc7b79c99b4986bf6d094e6": [
+      155
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-list-view\\index.html.vue|b03c1e258a8a537dc5aa60a08669c8de": [
+      381
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-notifications\\index.html.vue|5c12fe7f1b7b03c0f37b7d7975560e8a": [
+      391
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-menus\\index.html.vue|2cf24e05373861acf3f623054b932327": [
+      447
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-permissions\\index.html.vue|3142fb64df958c9eb1b1a5ce0e718a22": [
+      378
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-recycler-view\\index.html.vue|8f50114c16deb32cad962943f6195846": [
+      383
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-runtime-configuration-changes\\index.html.vue|80285f5fe21a19cdd8eb2d52596f7881": [
+      282
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-scheduling\\index.html.vue|eea2bfe2339ad8748b1ac3f071a388c7": [
+      437
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-sensors\\index.html.vue|9fee774d7afca098ed4399f117fd9528": [
+      433
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-services\\index.html.vue|89e8e01de72b29040333672b2cc99ee4": [
+      412
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-sqlite-database\\index.html.vue|f89414cf6ead8b2d88a81b5dd5c1c97d": [
+      364
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-studio-basics\\index.html.vue|aec7f0dfbb8cf56095b5608108ca6d0f": [
+      467
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-view-model\\index.html.vue|68be0f9b2b8ae8d77278f8ab246782e8": [
+      404
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-views-and-layouts\\index.html.vue|8168a264e72ef585963067566be9e801": [
+      123
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\asynchronous-programming-in-js\\index.html.vue|d969fa0a82ba577bbf9eae0f27e0b671": [
+      130
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\character-encodings\\index.html.vue|0cd75a40e732d92acc50c3929e9eb778": [
+      267
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\client-side-javascript-and-bom\\index.html.vue|eb6446188e0065b4e74ab0b813ba10fb": [
+      368
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\cloud-firestore\\index.html.vue|c140a8779928c4d6c5b2eb4bec44670d": [
+      431
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\common-code-mistakes\\index.html.vue|b2b45a93f85c896a00f215d6a790b193": [
+      236
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\content-delivery-networks\\index.html.vue|d734828fc9ee7983e602abd7ef6de46e": [
+      304
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\cookies-and-sessions\\index.html.vue|f9ba59c9a22b497aa2416ee71e204822": [
+      374
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\css\\index.html.vue|4fe88e7c11b6d2d8d7f5f01f1aacf492": [
+      360
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\dependency-injection-in-node-js\\index.html.vue|2514cf7067f353a18d77351a587b0aee": [
+      389
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\designing-account-systems\\index.html.vue|b2e3e7b1f8229df9cf1f50c27c47e1bc": [
+      355
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\docker-basics\\index.html.vue|7e8374172383fa3e5e0f1e103a679d72": [
+      340
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\document-object-model\\index.html.vue|8a8ff5b6a61b0a19bbeba5a04f8228a6": [
+      380
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\express-basics\\index.html.vue|6d164d9b960c437f1ced0ab5823ea575": [
+      441
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\gdpr\\index.html.vue|db15498ebbf3ae48fb509e0f2f78769d": [
+      379
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-basics\\index.html.vue|fb1b36addec8e31f9113d2757a89ec8e": [
+      234
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-branches\\index.html.vue|7d0715d1b5d0c4c87680e25b89fd44c8": [
+      246
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-synching\\index.html.vue|b1b2586797729cf5708a5b8a6d8a5d1f": [
+      263
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\handlebars\\index.html.vue|9608a737af01ee4c99941c4aeb8baa1e": [
+      299
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\handling-concurrent-http-requests\\index.html.vue|6c98a8d15c6eed6bd50fc4969dce65f0": [
+      414
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\html\\index.html.vue|04ccdcd58b70783a9de01e828253131b": [
+      424
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\html-and-css-frameworks\\index.html.vue|3aad2e401b9684cba8c2013a3267bd55": [
+      444
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\http-and-web-applications\\index.html.vue|4f558d116a844882938b41c350fe76d0": [
+      251
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\internet-basics\\index.html.vue|b398b2fb003e41e4abff076cd33aacbf": [
+      276
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\introduction-to-computers-and-programming\\index.html.vue|775789fdca7160364ea45e5a358be25a": [
+      443
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\java\\index.html.vue|042e7f0e4038fd9ba40d7d9c8fe7230b": [
+      435
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\javascript-basics\\index.html.vue|eae6b8b928b1c2142bd76d6bcb20ff8e": [
+      367
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\json-web-tokens\\index.html.vue|19170c145644dcb180f3b43ed0e06d0f": [
+      422
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\kotlin\\index.html.vue|c30176ae6f61d14544c2fbd4e481bb2c": [
+      403
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\kotlin-asynchronous-operations\\index.html.vue|82f6328f18fa2abe98b14a08f9eb8746": [
+      418
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\layered-architecture-in-node-js\\index.html.vue|b942d39eb12de566dc25f6be60a3ad69": [
+      377
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\node-js\\index.html.vue|0414bc97691c6000bc654160336c53eb": [
+      371
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\npm\\index.html.vue|80acbf8f8ea2e5f4fd25c6c840afa943": [
+      407
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\peters-feedback\\index.html.vue|fe6a06e5ce9db48dfccfd5b739cc7d48": [
+      315
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-abstraction\\index.html.vue|16cde72bd4ebc9de679ddcc1583623d8": [
+      442
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-basics-part-1\\index.html.vue|4677cecfa20da2df7582b8a2eb3b7e82": [
+      382
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-basics-part-2\\index.html.vue|ba07028003d5e0c417d30c0b343d5b00": [
+      423
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-conditions\\index.html.vue|5466617975173638bb0361e2aad0f978": [
+      395
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-data-storage\\index.html.vue|8efa3466b331ad2f976fd82c1952ea83": [
+      408
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-dicts\\index.html.vue|7243c09028edbbdfbed7fd4221db48a3": [
+      405
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-functions\\index.html.vue|f9f1bc5e7cd46327f7b33b49a79ebc49": [
+      430
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-introduction\\index.html.vue|429df332de698e44ca966bc22a05e9f5": [
+      438
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-lists\\index.html.vue|83eed805a13f1fa8dcb808ac193b61ef": [
+      388
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-loops\\index.html.vue|eb832fa4644362f97212acd1d225a676": [
+      416
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-modelling\\index.html.vue|df5b0096638b5e9a81a7c406659ee4a2": [
+      353
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-modules\\index.html.vue|43df45b78bf3462b58ea97207b6b2386": [
+      402
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-object-oriented-programming\\index.html.vue|7aa21e201f18d89434d56999c334e441": [
+      372
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-strings\\index.html.vue|c33783f1fcf7cdd81531704508c511c0": [
+      421
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\report-writing\\index.html.vue|dec902cd31ab8b030d3795ded85fb034": [
+      226
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-authorization\\index.html.vue|ffcbb193b9c842ff71aa04aadf2df61f": [
+      268
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-basics\\index.html.vue|223cb64eae3ebaff38db4a7e5d8716a3": [
+      357
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-in-express\\index.html.vue|98f6955c252eaa5c410413f1506c72a2": [
+      399
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\same-origin-policy-and-cross-origin-resource-sharing\\index.html.vue|f7c64d49f97d1f1f6550bdceff57f658": [
+      361
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\scaling-databases\\index.html.vue|057c63c1ab9f3141a36403e39c60c949": [
+      393
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\scaling-web-applications\\index.html.vue|8456a7b437b83b25f1197505a2b8b778": [
+      410
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\sop-and-cors\\index.html.vue|3a5b9dd6b4aaf942d8b8d18a3abc86ae": [
+      384
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\sqlite\\index.html.vue|f506a321739dce03d9ae6a24ad0ae555": [
+      439
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\teamwork\\index.html.vue|d5f41a612216571190ee60fa0e841710": [
+      238
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\thesis-defense\\index.html.vue|e2681eee7a98d12c06338104dd960e4f": [
+      311
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\thesis-proposals\\index.html.vue|1333dc850469bbbafd44a89a18103d20": [
+      341
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\third-party-authentication\\index.html.vue|29f52812a2d045a8e93b7e08913c3a88": [
+      387
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\uml-use-case-diagrams\\index.html.vue|a14910776ac3f29fe586f69f15e01c14": [
+      239
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-cookies-and-sessions-in-express\\index.html.vue|ad1856a99d335f4f40a1c70842dd7c20": [
+      417
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-sequelize-in-node-js\\index.html.vue|8632883ede8b139bd0a72ce079d574a9": [
+      376
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-shells\\index.html.vue|f937c945ce33294662623ad2b73c7719": [
+      281
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-sqlite-in-node-js\\index.html.vue|342a7a2df02f6929f5b013e0790cd9f6": [
+      386
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\vue\\index.html.vue|7bdfcabdbc5a9390e33e4132db758851": [
+      445
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-applications-in-express\\index.html.vue|186824a0d4bfedd9a07dd65fb8eda235": [
+      411
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-applications-in-node-js\\index.html.vue|c9c28ac90b4306f2b09b601ef899d180": [
+      413
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-cookies\\index.html.vue|7d394d775ab7b62c6866e07885715327": [
+      305
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-security\\index.html.vue|305c59360a54d07109dca9c63759e9f9": [
+      241
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-sessions\\index.html.vue|2c2ffdbcfedb06ee072be7065386e25e": [
+      270
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\writing-exam-answers\\README.md.html.vue|3e0c5e97498aafde58a6499add6f5ea0": [
+      396
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\exams\\exam-2021-08-22.html.vue|3acb2c277ad1ae5f77ba7c9649226dae": [
+      247
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\exams\\exam-2022-03-26.html.vue|b1a7ccc3dc42759b464d63f45582a02a": [
+      161
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2021-08-16.html.vue|3b0a492582f6750cadeca03a40292096": [
+      253
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2021-10-18.html.vue|d8d314cb7b1e8085ae62dcc79cea932d": [
+      210
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2022-01-11.html.vue|889948b9cfe724a1c0f19f61dbb39aca": [
+      225
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2021-02-18.html.vue|9a7d0a73b8adc37028322268ce968c93": [
+      240
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2021-12-15.html.vue|59bdde1ef851ef92a494e9fe980cd28d": [
+      209
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2022-02-13.html.vue|54adf582a7b9f7573fa9cebe774afc49": [
+      212
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\404.html.vue|22791a7da3c4dc68bf079a7e3b561769": [
+      477
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\index.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\pagesData.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\siteData.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\layoutComponents.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\composables\\index.js|21a765cc45bd7f33c8597a5d34fa4f0d": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-theme-data\\lib\\client\\composables\\index.js|fbc1f49134e525bae7767624da8b2a73": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\ts-debounce\\dist\\src\\index.esm.js": [
+      166
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\AcademicYearFigure.vue|cc0351256b1705a966e19207f12274b8": [
+      434
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\CompactInfo.vue|1fef60db8ae77445d4cbbcf1039e10f4": [
+      470
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ExamQuestion.vue|62f9e6c0b39528a15e7e90fe3a0b635d": [
+      462
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Figure.vue|bf116cf3eec290d53e84e0377d7b0a2d": [
+      475
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\FigureNumber.vue|b36fbbf89d48f89f560305bc1b9eee85": [
+      472
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\GradingGuideline.vue|45830d43f180d7634d3119956277093d": [
+      460
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ILOsActivitiesMapping.vue|bd33c5d0647e6f2cba84b3e0992b7713": [
+      455
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\RenderMermaid.vue|2197543d3f431a2815c48181d668f189": [
+      469
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ReportMistake.vue|6795673cf34ec2502daa2fb90f1ddddb": [
+      453
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\SampleAnswer.vue|71b8493828689e30bfe991251f0f9d2f": [
+      459
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\SleepButton.vue|58c1abbb9e9dccfbb90f8bec3521e069": [
+      476
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Smartphone.vue|c99f61ea072f96e0ffa97e10836e0b2b": [
+      478
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\StudyGuideInfo.vue|f989808b83c2318b85e5bc9d174555fa": [
+      398
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Teacher.vue|32b9eba0313e4b1548452c424dd143cb": [
+      454
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\TimePlan.vue|b00a6722560a1d6e7b99c9e8ca3666ea": [
+      420
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-15.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-15.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\sass-loader\\dist\\cjs.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\styles\\index.scss|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-medium-zoom\\lib\\client\\styles\\vars.css|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-medium-zoom\\lib\\client\\styles\\medium-zoom.css|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-back-to-top\\lib\\client\\styles\\vars.css|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-back-to-top\\lib\\client\\styles\\back-to-top.css|0": [
+      256
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\index.html.js": [
+      358
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\course-syllabus.html.js": [
+      448
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\laboratory-work.html.js": [
+      232
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\lectures.html.js": [
+      318
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\project-grading-guidelines.html.js": [
+      289
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\project-work.html.js": [
+      249
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\index.html.js": [
+      346
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\study-guide.html.js": [
+      284
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\time-plan.html.js": [
+      365
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\android-development\\tutorials.html.js": [
+      347
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\course-syllabus.html.js": [
+      456
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\lab-instructions.html.js": [
+      141
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\lectures.html.js": [
+      375
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\project-grading-guidelines.html.js": [
+      300
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\project-instructions.html.js": [
+      177
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\index.html.js": [
+      449
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\sample-exam.html.js": [
+      458
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\study-guide.html.js": [
+      288
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\time-plan.html.js": [
+      394
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\client-server-communication\\tutorials.html.js": [
+      356
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\git\\index.html.js": [
+      362
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\object-oriented-software-development\\lab-1-example.html.js": [
+      316
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\course-syllabus.html.js": [
+      446
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\laboratory-work.html.js": [
+      292
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\lectures.html.js": [
+      351
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\project-grading-guidelines.html.js": [
+      295
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\project-work.html.js": [
+      173
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\index.html.js": [
+      349
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\study-guide.html.js": [
+      285
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\time-plan.html.js": [
+      385
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\tutorials.html.js": [
+      343
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\written-examination.html.js": [
+      320
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\course-syllabus.html.js": [
+      451
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exercises.html.js": [
+      273
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\feedback.html.js": [
+      257
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\lectures.html.js": [
+      352
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\project-grading-guidelines.html.js": [
+      287
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\project-work.html.js": [
+      191
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\index.html.js": [
+      373
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\sample-exam.html.js": [
+      457
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\study-guide.html.js": [
+      290
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\time-plan.html.js": [
+      366
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\tutorials.html.js": [
+      348
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\written-examination.html.js": [
+      319
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\course-syllabus.html.js": [
+      432
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exercises.html.js": [
+      50
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\laboratory-work.html.js": [
+      139
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\lectures.html.js": [
+      359
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\index.html.js": [
+      344
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\study-guide.html.js": [
+      297
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\time-plan.html.js": [
+      390
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\written-examination.html.js": [
+      327
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\after-peters-exam\\index.html.js": [
+      331
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\ajax\\index.html.js": [
+      354
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\amazon-lightsail\\index.html.js": [
+      400
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-app-bar\\index.html.js": [
+      190
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-asynchronous-operations\\index.html.js": [
+      397
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-activities\\index.html.js": [
+      117
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-backward-compatible\\index.html.js": [
+      436
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-bluetooth-classic\\index.html.js": [
+      406
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-bottom-navigation-view-and-drawer-layout\\index.html.js": [
+      427
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-broadcast-receivers\\index.html.js": [
+      392
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-cloud-firestore\\index.html.js": [
+      440
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-conditional-resources\\index.html.js": [
+      370
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-constraint-layout\\index.html.js": [
+      114
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-content-providers\\index.html.js": [
+      369
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-coordinator-layout\\index.html.js": [
+      229
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-design-patterns\\index.html.js": [
+      409
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-dialogs\\index.html.js": [
+      425
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-file-storage\\index.html.js": [
+      426
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-fragments\\index.html.js": [
+      224
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-fundamental-application-components\\index.html.js": [
+      294
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-gps\\index.html.js": [
+      429
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-introduction\\index.html.js": [
+      401
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-linear-layout\\index.html.js": [
+      155
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-list-view\\index.html.js": [
+      381
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-notifications\\index.html.js": [
+      391
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-menus\\index.html.js": [
+      447
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-permissions\\index.html.js": [
+      378
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-recycler-view\\index.html.js": [
+      383
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-runtime-configuration-changes\\index.html.js": [
+      282
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-scheduling\\index.html.js": [
+      437
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-sensors\\index.html.js": [
+      433
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-services\\index.html.js": [
+      412
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-sqlite-database\\index.html.js": [
+      364
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-studio-basics\\index.html.js": [
+      467
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-view-model\\index.html.js": [
+      404
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\android-views-and-layouts\\index.html.js": [
+      123
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\asynchronous-programming-in-js\\index.html.js": [
+      130
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\character-encodings\\index.html.js": [
+      267
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\client-side-javascript-and-bom\\index.html.js": [
+      368
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\cloud-firestore\\index.html.js": [
+      431
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\common-code-mistakes\\index.html.js": [
+      236
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\content-delivery-networks\\index.html.js": [
+      304
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\cookies-and-sessions\\index.html.js": [
+      374
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\css\\index.html.js": [
+      360
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\dependency-injection-in-node-js\\index.html.js": [
+      389
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\designing-account-systems\\index.html.js": [
+      355
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\docker-basics\\index.html.js": [
+      340
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\document-object-model\\index.html.js": [
+      380
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\express-basics\\index.html.js": [
+      441
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\gdpr\\index.html.js": [
+      379
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-basics\\index.html.js": [
+      234
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-branches\\index.html.js": [
+      246
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\git-synching\\index.html.js": [
+      263
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\handlebars\\index.html.js": [
+      299
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\handling-concurrent-http-requests\\index.html.js": [
+      414
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\html\\index.html.js": [
+      424
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\html-and-css-frameworks\\index.html.js": [
+      444
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\http-and-web-applications\\index.html.js": [
+      251
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\internet-basics\\index.html.js": [
+      276
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\introduction-to-computers-and-programming\\index.html.js": [
+      443
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\java\\index.html.js": [
+      435
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\javascript-basics\\index.html.js": [
+      367
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\json-web-tokens\\index.html.js": [
+      422
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\kotlin\\index.html.js": [
+      403
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\kotlin-asynchronous-operations\\index.html.js": [
+      418
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\layered-architecture-in-node-js\\index.html.js": [
+      377
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\node-js\\index.html.js": [
+      371
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\npm\\index.html.js": [
+      407
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\peters-feedback\\index.html.js": [
+      315
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-abstraction\\index.html.js": [
+      442
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-basics-part-1\\index.html.js": [
+      382
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-basics-part-2\\index.html.js": [
+      423
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-conditions\\index.html.js": [
+      395
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-data-storage\\index.html.js": [
+      408
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-dicts\\index.html.js": [
+      405
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-functions\\index.html.js": [
+      430
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-introduction\\index.html.js": [
+      438
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-lists\\index.html.js": [
+      388
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-loops\\index.html.js": [
+      416
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-modelling\\index.html.js": [
+      353
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-modules\\index.html.js": [
+      402
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-object-oriented-programming\\index.html.js": [
+      372
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\python-strings\\index.html.js": [
+      421
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\report-writing\\index.html.js": [
+      226
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-authorization\\index.html.js": [
+      268
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-basics\\index.html.js": [
+      357
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\rest-api-in-express\\index.html.js": [
+      399
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\same-origin-policy-and-cross-origin-resource-sharing\\index.html.js": [
+      361
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\scaling-databases\\index.html.js": [
+      393
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\scaling-web-applications\\index.html.js": [
+      410
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\sop-and-cors\\index.html.js": [
+      384
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\sqlite\\index.html.js": [
+      439
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\teamwork\\index.html.js": [
+      238
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\thesis-defense\\index.html.js": [
+      311
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\thesis-proposals\\index.html.js": [
+      341
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\third-party-authentication\\index.html.js": [
+      387
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\uml-use-case-diagrams\\index.html.js": [
+      239
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-cookies-and-sessions-in-express\\index.html.js": [
+      417
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-sequelize-in-node-js\\index.html.js": [
+      376
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-shells\\index.html.js": [
+      281
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\using-sqlite-in-node-js\\index.html.js": [
+      386
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\vue\\index.html.js": [
+      445
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-applications-in-express\\index.html.js": [
+      411
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-applications-in-node-js\\index.html.js": [
+      413
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-cookies\\index.html.js": [
+      305
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-security\\index.html.js": [
+      241
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\web-sessions\\index.html.js": [
+      270
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\lectures\\writing-exam-answers\\README.md.html.js": [
+      396
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\exams\\exam-2021-08-22.html.js": [
+      247
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-advanced-concepts\\exams\\exam-2022-03-26.html.js": [
+      161
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2021-08-16.html.js": [
+      253
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2021-10-18.html.js": [
+      210
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\web-development-fundamentals\\exams\\exam-2022-01-11.html.js": [
+      225
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2021-02-18.html.js": [
+      240
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2021-12-15.html.js": [
+      209
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\courses\\introduction-to-script-programming\\exams\\exam-2022-02-13.html.js": [
+      212
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\pages\\404.html.js": [
+      477
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\layouts\\404.vue|259f9439273ec4c2d44dc0a5c39d676a": [
+      471
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\theme-default\\lib\\client\\layouts\\Layout.vue|e4ad92afe124717aee74f9b1c09f54f2": [
+      279
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\client\\lib\\components\\OutboundLink.css|0": [
+      256
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\.temp\\internal\\themeData.js": [
+      233
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\nprogress\\nprogress.js": [
+      166
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\android-development\\files\\laboratory-work-gui.jpeg": [
+      232
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\object-oriented-software-development\\files\\lab-1-use-case-diagram.jpeg": [
+      316
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-notepad.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-download-python.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-install-python.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-run-powershell.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-download-vs-code.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-install-vs-code.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-vs-code-create-project.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-vs-code-writing-python.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\exercises\\getting-started-vs-code-running-python.png": [
+      50
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-1-lcc-formula.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-1-present-value-factor.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-1-ids.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-4-naming-model.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-4-delivery-content.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-5-csv-in-excell.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-6-connect-four-empty.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-6-connect-four-with-moves.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\courses\\introduction-to-script-programming\\files\\labs\\lab-6-construction-entity.png": [
+      139
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\lectures\\report-writing\\code-as-image.png": [
+      226
+    ],
+    "asset|C:\\Users\\peter\\projects\\course-material\\src\\lectures\\report-writing\\screenshot.png": [
+      226
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-nprogress\\lib\\client\\styles\\vars.css|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\plugin-nprogress\\lib\\client\\styles\\nprogress.css|0": [
+      256
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\AcademicYearFigure.vue?vue&type=style&index=0&id=3f8f8a81&scoped=true&lang=css|0": [
+      498
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\CompactInfo.vue?vue&type=style&index=0&id=b7b8e0d6&scoped=true&lang=css|0": [
+      488
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ExamQuestion.vue?vue&type=style&index=0&id=0ca22fef&scoped=true&lang=css|0": [
+      479
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Figure.vue?vue&type=style&index=0&id=c2e176ba&lang=css|0": [
+      487
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Figure.vue?vue&type=style&index=1&id=c2e176ba&scoped=true&lang=css|0": [
+      487
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Figure.vue?vue&type=style&index=2&id=c2e176ba&lang=css|0": [
+      487
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\FigureNumber.vue?vue&type=style&index=0&id=6169d342&scoped=true&lang=css|0": [
+      490
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\GradingGuideline.vue?vue&type=style&index=0&id=7b12cf94&scoped=true&lang=css|0": [
+      496
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ILOsActivitiesMapping.vue?vue&type=style&index=0&id=79ad1079&scoped=true&lang=css|0": [
+      495
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\RenderMermaid.vue?vue&type=style&index=0&id=78c3786c&scoped=true&lang=css|0": [
+      497
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\ReportMistake.vue?vue&type=style&index=0&id=3ebfe3e8&scoped=true&lang=css|0": [
+      491
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\SampleAnswer.vue?vue&type=style&index=0&id=67516ab0&scoped=true&lang=css|0": [
+      493
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Smartphone.vue?vue&type=style&index=0&id=6dfa982a&scoped=true&lang=css|0": [
+      492
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\StudyGuideInfo.vue?vue&type=style&index=0&id=9dd99e30&scoped=true&lang=css|0": [
+      483
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\Teacher.vue?vue&type=style&index=0&id=5cc2780a&scoped=true&lang=css|0": [
+      494
+    ],
+    "css|C:\\Users\\peter\\projects\\course-material\\node_modules\\css-loader\\dist\\cjs.js??clonedRuleSet-9.use[1]!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\stylePostLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\postcss-loader\\dist\\cjs.js??clonedRuleSet-9.use[2]!C:\\Users\\peter\\projects\\course-material\\node_modules\\@vuepress\\bundler-webpack\\lib\\build\\ssr\\vuepressLoader.js!C:\\Users\\peter\\projects\\course-material\\node_modules\\vue-loader\\dist\\index.js??ruleSet[0].use[1]!C:\\Users\\peter\\projects\\course-material\\src\\.vuepress\\components\\TimePlan.vue?vue&type=style&index=0&id=0106542e&scoped=true&lang=css|0": [
+      480
+    ],
+    "C:\\Users\\peter\\projects\\course-material\\node_modules\\mermaid\\dist\\mermaid.js": [
+      6
+    ],
+    "webpack/runtime/chunk": [
+      313
+    ],
+    "webpack/runtime/create fake namespace": [
+      313
+    ],
+    "webpack/runtime/css": [
+      313
+    ],
+    "webpack/runtime/define property": [
+      313
+    ],
+    "webpack/runtime/ensure": [
+      313
+    ],
+    "webpack/runtime/get javascript chunk": [
+      313
+    ],
+    "webpack/runtime/get mini-css chunk": [
+      313
+    ],
+    "webpack/runtime/hasOwnProperty": [
+      313
+    ],
+    "webpack/runtime/jsonp chunk": [
+      313
+    ],
+    "webpack/runtime/load": [
+      313
+    ],
+    "webpack/runtime/make namespace": [
+      313
+    ],
+    "webpack/runtime/publicPath": [
+      313
+    ]
+  }
+}

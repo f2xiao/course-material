@@ -1,0 +1,3 @@
+.figureNumber[data-v-6169d342]::before{content:"Figure " counter(figureNumber)}.incrementFigureNumber[data-v-6169d342]{counter-increment:figureNumber}.decrementFigureNumber[data-v-6169d342]{counter-increment:figureNumber -1}
+
+/*# sourceMappingURL=9421.styles.6acd660e.css.map*/
